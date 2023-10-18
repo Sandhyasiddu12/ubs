@@ -12,7 +12,8 @@ unique_ids:
     Signup: '1697439294779494210633817.7008'
     FAQs: '1697438023879435631124304.00165'
     UserFeedback: '1697438028289251112874078.59195'
-  modules: {}
+  modules:
+    Module1: '1697606236686700890721391.8607'
   server_modules: {}
   assets:
     standard-page.html: 5SJSASCH4BJYGWVWYF2QUKLQVV4AC7D3
